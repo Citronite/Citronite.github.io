@@ -1,2 +1,0 @@
-# Citronite blog
-hmmm
